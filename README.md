@@ -13,9 +13,4 @@
 
 
 
-# HTML
-# CSS
-# JavaScript
-## React
-## Vue
-### Angular
+
