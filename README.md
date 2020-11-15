@@ -1,6 +1,7 @@
 ### Hi there 👋
-#### I'm a full stack student
-#### I live in Bauru-SP Brazil:🇧🇷
+#### I'm a student FullStack developer
+#### I live in Bauru-SP Brazil <span>&#x1f1e7;&#x1f1f7;</span>
+
 
 
 <!--
