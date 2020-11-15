@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### I'm a student FullStack developer
-#### I live in Bauru-SP Brazil http://emojipedia.org/flag-for-brazil/
-
+#### I live in Bauru-SP Brazil :brazil:
 
 
 <!--
