@@ -28,23 +28,21 @@
 
 **Others Technologies:**
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/edevaldomac/)](https://github.com/gabiqrm/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
 
 ##
 
 **Operational Systems:**
 
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
 
 ##
 
 **IDE:**
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
 
-##
 
-**Versioning and Communication:**
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/) 
+
 
