@@ -8,3 +8,14 @@
  
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edevaldomac/)](https://www.linkedin.com/in/edevaldomac/)
+
+
+
+
+
+# HTML
+# CSS
+# JavaScript
+## React
+## Vue
+### Angular
