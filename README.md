@@ -5,6 +5,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edevaldomac/)](https://www.linkedin.com/in/edevaldomac/)
 
+
+
+
+](https://github.com/gabiqrm/)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)   [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)  [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)]
 <!--
 **EdevaldoMac/EdevaldoMac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
