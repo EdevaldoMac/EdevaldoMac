@@ -5,7 +5,7 @@
  #### Conecte-se comigo 🤝
  <a href="https://www.linkedin.com/in/edevaldomac/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;target="_blank"
+  </a>&nbsp;&nbsp;target="_blank">
 
 
 ## Languages and Technologies:
