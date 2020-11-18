@@ -3,11 +3,9 @@
 #### :brazil:
 
  
- 
- 
- 
-https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white
-
+ <a href="https://www.linkedin.com/in/edevaldomac/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 
 ## Languages and Technologies:
