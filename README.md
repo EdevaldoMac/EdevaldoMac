@@ -19,6 +19,8 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/) 
 
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
 ##
 
 **Front-end:**
