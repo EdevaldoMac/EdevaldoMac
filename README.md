@@ -23,7 +23,7 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)   [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/) 
 
-**Others Technologies:**
+**Backend:**
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
 
