@@ -12,7 +12,7 @@
 
 **Language:**
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com/)](https://www.javascript.com/) 
 
 
 
