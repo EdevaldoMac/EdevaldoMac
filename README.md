@@ -2,7 +2,7 @@
 ### Welcome to my GitHub, I am happy with your visit!   ​:slightly_smiling_face:​
 #### :brazil:
 
- #### Conecte-se comigo 🤝
+ #### Connect with me 🤝
  <a href="https://www.linkedin.com/in/edevaldomac/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
