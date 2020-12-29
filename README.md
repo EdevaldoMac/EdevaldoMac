@@ -40,6 +40,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
 
 **Number of visits:**
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
 
 
