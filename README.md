@@ -12,7 +12,7 @@
 
 **Language:**
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com/)](https://www.javascript.com/) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/ target_"blank")](https://www.javascript.com/) 
 
 
 
