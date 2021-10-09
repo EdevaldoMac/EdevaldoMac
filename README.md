@@ -21,7 +21,7 @@
 
 **Front-end:**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D&link=https://vuejs.org/">
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com)](https://www.javascript.com/) 
 
 **Backend:**
 
