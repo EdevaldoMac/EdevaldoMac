@@ -25,7 +25,7 @@
 
 **Backend:**
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/) [![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java.js&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
 
 ##
 
