@@ -40,6 +40,7 @@
 **IDE:**
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
+[![Eclipse](https://img.shields.io/badge/-eclipse?style=flat-square&logo=eclipse&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
 
 **Number of visits:**
 
