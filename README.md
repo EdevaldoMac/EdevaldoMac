@@ -13,7 +13,7 @@
 **Language:**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com)](https://www.javascript.com/) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com)](https://www.javascript.com/)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&link=https://www.java.com)](https://www.java.com/)
 
 
 
