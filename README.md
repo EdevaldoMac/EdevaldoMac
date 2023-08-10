@@ -15,6 +15,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com)](https://www.javascript.com/) 
 [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&link=https://www.java.com/pt-BR/)](https://www.java.com/pt-BR/)
 [![Angular](https://img.shields.io/badge/-Angular-blue?style=flat-square&logo=Angular&link=https://angular.io/)](https://angular.io/)
+[![python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python&link=https://www.python.com)](https://www.python.org/)
 
 
 
@@ -29,6 +30,7 @@
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/edevaldomac/)](https://github.com/edevaldomac/)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&link=https://www.java.com)](https://www.java.com/)
+[![python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python&link=https://www.python.com)](https://www.python.org/)
 
 
 ##
